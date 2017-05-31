@@ -6,16 +6,26 @@ The code is accelerated with Gaussian quadrature computations, proposed in the p
 
 bib:
 
-@inproceedings{li2016gaussian,\\
+@inproceedings{li2016gaussian,
+
   title={Gaussian quadrature for matrix inverse forms with applications},
+  
   author={Li, Chengtao and Sra, Suvrit and Jegelka, Stefanie},
+  
   booktitle={International Conference on Machine Learning},
+  
   year={2016}
+  
 }
 
 @inproceedings{li2016fast,
+
   title={Fast DPP Sampling for Nystr\"om with Application to Kernel Methods},
+  
   author={Li, Chengtao and Jegelka, Stefanie and Sra, Suvrit},
+  
   booktitle={International Conference on Machine Learning},
+  
   year={2016}
+  
 }
