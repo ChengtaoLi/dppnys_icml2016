@@ -6,7 +6,7 @@ The code is accelerated with Gaussian quadrature computations, proposed in the p
 
 bib:
 
-@inproceedings{li2016gaussian,
+@inproceedings{li2016gaussian,\\
   title={Gaussian quadrature for matrix inverse forms with applications},
   author={Li, Chengtao and Sra, Suvrit and Jegelka, Stefanie},
   booktitle={International Conference on Machine Learning},
