@@ -13,14 +13,9 @@ bib:
   year={2016}  
 }
 
-@inproceedings{li2016fast,
-
-  title={Fast DPP Sampling for Nystr\"om with Application to Kernel Methods},
-  
-  author={Li, Chengtao and Jegelka, Stefanie and Sra, Suvrit},
-  
-  booktitle={International Conference on Machine Learning},
-  
-  year={2016}
-  
+@inproceedings{li2016fast,  
+  title={Fast DPP Sampling for Nystr\"om with Application to Kernel Methods},  
+  author={Li, Chengtao and Jegelka, Stefanie and Sra, Suvrit},  
+  booktitle={International Conference on Machine Learning},  
+  year={2016}  
 }
